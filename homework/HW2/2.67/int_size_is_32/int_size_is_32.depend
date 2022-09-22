@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1617801800 source:c:\codeblocks\int_size_is_32\main.c
+	<stdio.h>
+	<stdlib.h>
+
